@@ -37,16 +37,15 @@ Para aquellos que quieren profundizar más en los detalles técnicos y resultado
 - Metodología de desarrollo.
 - Análisis detallado de los datos.
 - Resultados del modelo.
-- Conclusiones y trabajos futuros.
+- Conclusiones.
 
 Puedes encontrar este documento en la carpeta `docs` de este repositorio o descargarlo directamente desde [aquí](ruta/al/documento.pdf).
 
 ## 📊 **Resultados Clave**
 
-- **Precisión del Modelo**: `XX%`
-- **Recall (Sensibilidad)**: `YY%`
-- **AUC-ROC**: `ZZ`
-- **Tiempo promedio de predicción**: `0.XX segundos`
+- **Precisión del Modelo**: `89,14%`
+- **Recall (Sensibilidad)**: `60%`
+- **AUC-ROC**: `0,97`
 
 Estos resultados muestran la capacidad del modelo para identificar transacciones fraudulentas con alta precisión y rapidez.
 
@@ -67,4 +66,4 @@ Este proyecto está bajo la Licencia MIT. Puedes ver más detalles en el archivo
 
 ---
 
-¡Gracias por visitar nuestro proyecto! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarnos. 💻🚀
+¡Gracias por visitar nuestro proyecto! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme. 💻🚀
