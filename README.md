@@ -33,13 +33,15 @@ El fraude bancario es una preocupación creciente en el mundo financiero. Nuestr
 
 ## 📚 **Documentación Detallada**
 
+### 📜 **Memoria del Proyecto**
+
 Para aquellos que quieren profundizar más en los detalles técnicos y resultados, hemos preparado un documento PDF 📄 con toda la memoria del proyecto. Este documento incluye:
 - Metodología de desarrollo.
 - Análisis detallado de los datos.
 - Resultados del modelo.
 - Conclusiones.
 
-Puedes encontrar este documento en la carpeta `docs` de este repositorio o descargarlo directamente desde [aquí](ruta/al/documento.pdf).
+🔗 **Puedes encontrar este documento en la carpeta `docs` de este repositorio** o **descargarlo directamente desde [aquí](FraudPredictionDataAnalytics_Portfolio.pdf)**.
 
 ## 📊 **Resultados Clave**
 
@@ -67,3 +69,4 @@ Este proyecto está bajo la Licencia MIT. Puedes ver más detalles en el archivo
 ---
 
 ¡Gracias por visitar nuestro proyecto! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme. 💻🚀
+
